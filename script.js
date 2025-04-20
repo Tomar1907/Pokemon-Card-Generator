@@ -1,5 +1,5 @@
 const typeColor = {
-    
+
         bug: "#26de81",
         dragon: "#ffeaa7",
         electric: "#fed330",
@@ -61,7 +61,8 @@ let generateCard = (data) => {
             <div class="stats">
                 <div>
                     <h3>${statAttack}</h3>
-                    <p>Attack</p>
+                    <p>Attack
+                    </p>
                 </div>
                 <div>
                     <h3>${statDefense}</h3>
